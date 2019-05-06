@@ -8,7 +8,7 @@ Materials for the Git for Data Science workshop at [NYR](https://www.rstats.nyc/
 
 ## Setup and Installation
 
-[Setup, Installation, checks, and how to install packages](./setup.html).
+[Setup: Git, Text Editor, R + RStudio](./setup.html).
 
 ## Additional Resources
 
